@@ -1,0 +1,1 @@
+A transformer architecture coded from scratch that involves positional encoding, multi-head attention layer, feed forward neural network, cross attention layer, all called using encoder and decoder blocks.
